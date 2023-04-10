@@ -12,7 +12,7 @@ There are two functions of the program:
 ![Route Estimator](https://github.com/joet-dev/RouteEstimator/blob/master/hyperlopp.PNG?raw=true)
 
 
-** How it works **
+**How it works**
 
 
 ## TODO: 
