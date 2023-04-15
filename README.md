@@ -14,6 +14,7 @@ There are two functions of the program:
 ![Route Estimator](https://github.com/joet-dev/RouteEstimator/blob/master/hyperlopp.PNG?raw=true)
 
 **How it works**
+
 The program reads all city and transport medium data from a csv. It prompts the user to enter an origin and destination city then checks to see if the input matches a city from the city list. If there is no match, the program finds the closest matching city name to the input string (using the Levenshtein method). Once the origin and destination cities have been selected the program calculates the distance from longitudal and latitudal points (using the Haversine formula), then finally calculates the time it would take for each method of transport to travel the distance. The user is then able to plot the values on a chart to compare them visually. 
 
 
