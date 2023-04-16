@@ -1,6 +1,6 @@
 # RouteEstimator :airplane: 
 
-**`Completed 2020`**
+**`Created 2020`**
 
 ## Description 
 This program was created in my first semester of computer science, so it may not follow coding standards completely and will have inefficiencies. 
